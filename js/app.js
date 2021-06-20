@@ -1,3 +1,5 @@
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 alert("Hello! Welcome to this Webpage!");
 
 let visitorName= prompt("What should I call you?");
@@ -29,5 +31,5 @@ alert("Well, thank you for taking time " + visitorName + ", I hope you enjoy pla
 
 alert("May you find more fun " + genre + " games! And do something about this " + troll + " hours a week problem..");
 
-
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
